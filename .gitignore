@@ -26,6 +26,8 @@ dist/
 # JetBrains IDE
 .idea/
 
+/src/config.js
+
 # Unit test reports
 TEST*.xml
 
