@@ -1,0 +1,8 @@
+image: v2c/telegrambotservice:${VERSION}
+name: telegrambotservice
+port: 7071
+debugport: 8000
+replicas: 1
+apiversion: v1
+configmapenv: my-env
+
